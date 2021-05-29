@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Data Structures Algorithms**
 
 - 📫 Contact me through :<br>
-   LinkedIn - <a href="https://www.linkedin.com/in/amit-patnaik-ab2913203/" target="blank"> Click here </a><br>
+   LinkedIn - <a href="https://www.linkedin.com/in/amit-patnaik-ab2913203/" target="_blank"> Click here </a><br>
    Gmail - amitpatnaik4518@gmail.com
 
 <h3 align="left">My coding profiles:</h3>
