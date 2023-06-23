@@ -226,10 +226,10 @@ Like My Work?
   	<ul>
   	    <li><b>OS:</b> Ventura 13.0</li>
 	    <li><b>Laptop: </b> Macbook Air m2</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Brave Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> Hashnode, Medium, Linkedin and Twitter.</li>
 	    <br />
 	⚛️ Checkout My VSCode Configrations <a href="#">Here</a>.
 	</ul>	
