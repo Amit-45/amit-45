@@ -116,7 +116,7 @@ Since then I pushed **129**+ commits, opened **20**+ issues, submitted **28**+ p
 -  &nbsp; MyConnect Blog (Java servlets, JDBC, JSP) - [Click](https://github.com/Amit-45/myconnectglo)
 -  &nbsp; Information tracker for Covid (Java, Spring Boot, jQuery)-[Click](https://github.com/Amit-45/covid-19-tracker-)
 -  &nbsp; Cashflow Minimiser Splitwise (Heaps,Trees)-[Click](https://cashflow-minimiser-split.vercel.app/)
--  &nbsp; Project and Funding Analysis (Python)
+-  &nbsp; Project and Funding Analysis (Python) -[Click](https://github.com/Amit-45/funding-analysis)
 
 
 Like My Work?
