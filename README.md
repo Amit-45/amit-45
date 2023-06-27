@@ -111,11 +111,12 @@ Since then I pushed **129**+ commits, opened **20**+ issues, submitted **28**+ p
 
 # My Projects:
 
--  &nbsp; Cashflow Minimiser Split - [Click](https://cashflow-minimiser-split-mz6gtvtll-amit-45.vercel.app/)
--  &nbsp; MyConnect Blog (Java servlets, JDBC, JSP) - [Click](https://github.com/Amit-45/myconnectglo)
+
 -  &nbsp; Payment date prediction(ML project) - [Click](https://github.com/Amit-45/Payment-date-prediction)
+-  &nbsp; MyConnect Blog (Java servlets, JDBC, JSP) - [Click](https://github.com/Amit-45/myconnectglo)
 -  &nbsp; Information tracker for Covid (Java, Spring Boot, jQuery)-[Click](https://github.com/Amit-45/covid-19-tracker-)
 -  &nbsp; Cashflow Minimiser Splitwise (Heaps,Trees)-[Click](https://cashflow-minimiser-split.vercel.app/)
+-  &nbsp; Project and Funding Analysis (Python)
 
 
 Like My Work?
